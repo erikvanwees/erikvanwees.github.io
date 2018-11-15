@@ -10,11 +10,11 @@ Hey Guys, and Gals ...
 
 This is text coming directly from Google docs via de Gabriel Markdown plugin.
 
-It can be published directly to your GitHub repositories ..
+It is published with 1 Click directly to your GitHub repositories ..
 
 Let's see if the **WYSIWYG** features of DOCs can be used
 
-More to follow … ;)
+More to follow after some sleep … ;)
 
 *Test*
 
