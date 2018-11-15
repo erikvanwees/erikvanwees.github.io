@@ -6,13 +6,15 @@ permalink: /test-document-nysthi/
 source-id: 1mLEL8_IUICTNzNJdcsIDZGPhFgVFvz55V7ZNvgVHqDA
 published: true
 ---
-Hey Guys, and Gals ...
+Hey Guys, and Gals …
+
+Maybe an alternative for our current workflow ...
 
 This is text coming directly from Google Docs via the free Gabriel **Markdown** plugin.
 
-The .md file it automatically generates is published with 1 Click directly to your GitHub repositories .. including (for me) this new website made in 5 minutes with GitHub Jekyll-Now … ;)
+The .md file it automatically generates is published with 1 Click directly to your GitHub repositories .. including (for me) this new website made in 5 minutes with GitHub Jekyll-Now … ;) No need for Github Desktop or command line … and Google Docs as a more familiar **WYSIWYG** editor and environment.
 
-Let's see if the **WYSIWYG** features of DOCs can be fully used, including maybe templates.
+Let's see if the WYSIWYG features of DOCs can be fully used, including maybe templates.
 
 Tables might be a no-no … (at least for web render via Jekyll, the .md file views OK on Github website)
 
