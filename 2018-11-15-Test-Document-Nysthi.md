@@ -8,9 +8,11 @@ published: true
 ---
 Hey Guys, and Gals ...
 
-This is text coming directly from Google docs via de Gabriel Markdown plugin.
+This is text coming directly from Google docs via the free Gabriel Markdown plugin.
 
-It is published with 1 Click directly to your GitHub repositories ..
+It is published with 1 Click directly to your GitHub repositories .. including this website
+
+One can also think of a Doc template for the manual
 
 Let's see if the **WYSIWYG** features of DOCs can be used
 
