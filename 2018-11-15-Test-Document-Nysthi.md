@@ -12,7 +12,7 @@ This is text coming directly from Google Docs via the free Gabriel **Markdown** 
 
 The .md file it automatically generates is published with 1 Click directly to your GitHub repositories .. including (for me) this new website made in 5 minutes with GitHub Jekyll-Now … ;)
 
-Let's see if the **WYSIWYG** features of DOCs can be fully used
+Let's see if the **WYSIWYG** features of DOCs can be fully used, including maybe templates.
 
 Tables might be a no-no … (at least for web render via Jekyll, the .md file views OK on Github website)
 
