@@ -10,7 +10,7 @@ Hey Guys, and Gals ...
 
 This is text coming directly from Google Docs via the free Gabriel **Markdown** plugin.
 
-The .md file it automatically generates is published with 1 Click directly to your GitHub repositories .. including (for me) this new website made with GitHub Jekyll-Now … ;)
+The .md file it automatically generates is published with 1 Click directly to your GitHub repositories .. including (for me) this new website made in 5 minutes with GitHub Jekyll-Now … ;)
 
 Let's see if the **WYSIWYG** features of DOCs can be fully used
 
