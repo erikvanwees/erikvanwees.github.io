@@ -10,13 +10,13 @@ Hey Guys, and Gals ...
 
 This is text coming directly from Google docs via the free Gabriel Markdown plugin.
 
-It is published with 1 Click directly to your GitHub repositories .. including this website
+It is published with 1 Click directly to your GitHub repositories .. including (for me) this website … ;)
 
-One can also think of a Doc template for the manual
+(One can also think of a Doc template for the manual)
 
 Let's see if the **WYSIWYG** features of DOCs can be used
 
-More to follow after some sleep … ;)
+More testing of that to follow after some sleep … ;)
 
 *Test*
 
