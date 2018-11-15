@@ -8,13 +8,15 @@ published: true
 ---
 Hey Guys, and Gals ...
 
-This is text coming directly from Google docs via the free Gabriel Markdown plugin.
+This is text coming directly from Google docs via the free Gabriel **Markdown** plugin.
 
-It is published with 1 Click directly to your GitHub repositories .. including (for me) this website … ;)
+It is published with 1 Click directly to your GitHub repositories .. including (for me) this new website … ;)
 
 (One can also think of a Doc template for the manual)
 
-Let's see if the **WYSIWYG** features of DOCs can be used
+Let's see if the **WYSIWYG** features of DOCs can be fully used
+
+Tables might be a no-no … (at least for web render via Jekyll, the .md file views OK on Github website)
 
 More testing of that to follow after some sleep … ;)
 
