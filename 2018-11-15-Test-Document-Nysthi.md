@@ -18,11 +18,13 @@ Let's see if the WYSIWYG features of DOCs can be fully used, including maybe tem
 
 Tables might be a no-no … (at least for web render via Jekyll, the .md file views OK on Github website)
 
-More testing of that to follow after some sleep … ;)
+More testing of that to follow shortly … ;)
 
 *Test*
 
 *[Eriks websit*e](https://erikvanwees.github.io/)
+
+![image alt text]({{ site.url }}/public/IEx6DfYi7zCNpJ5IuxoBig_img_0.jpg)
 
 **_Test_**
 
