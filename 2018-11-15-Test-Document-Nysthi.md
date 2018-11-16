@@ -26,6 +26,8 @@ More testing of that to follow shortly … ;)
 
 ![image alt text]({{ site.url }}/public/IEx6DfYi7zCNpJ5IuxoBig_img_0.jpg)
 
+*No image align*
+
 **_Test_**
 
 <table>
