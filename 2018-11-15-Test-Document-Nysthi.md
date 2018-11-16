@@ -28,6 +28,8 @@ More testing of that to follow shortly … ;)
 
 *No image align*
 
+*No flowing text*
+
 **_Test_**
 
 <table>
